@@ -7,13 +7,13 @@ For any questions or suggestions write to alexismarino0109@gmail.com
 # Sumary.
 
 In this project, an integrated control system design for active rear-wheel steering and direct yaw moment control is presented. The proposed control system is a model matching controller (MMC) which makes the vehicle follow the desired dynamic model by using the state feedback of both yaw rate and side slip angle. Although this integrated MMC is designed by linear control theory, it can greatly improve the handling and stability and show the expected robustness when the vehicle parameter changes, such as the vehicle mass, even in large lateral acceleration ranges. The steps developed in this project are:  
-• Obtain the Model Matching Controller and implement it in the Simulink environment.  
-• Implemented optimal controls like H_inf, H_2, L_1, LQ, and robust LPV controller.  
-• Comparison of optimal control techniques.  
-• Integrate an integral effect to the model and implement the optimal controllers.  
-• Used the Polytropic model description to represent the uncertain system when the plant is subject to velocity changes.  
-• Implement robust optimal controls.
-• Finally, varying the velocity to observe the robustness of the controls and implement a gain scheduling control.  
+- Obtain the Model Matching Controller and implement it in the Simulink environment.  
+- Implemented optimal controls like H_inf, H_2, L_1, LQ, and robust LPV controller.  
+- Comparison of optimal control techniques.  
+- Integrate an integral effect to the model and implement the optimal controllers.  
+- Used the Polytropic model description to represent the uncertain system when the plant is subject to velocity changes.  
+- Implement robust optimal controls.
+- Finally, varying the velocity to observe the robustness of the controls and implement a gain scheduling control.  
 
   
 # Prerequisites
