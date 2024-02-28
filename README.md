@@ -1,6 +1,6 @@
 # Active-Rear-Wheel-Steering-and-Direct-Yaw-Moment-Control
 
-Code developed for "A. Marino, - Receding Horizon Tracking Trajectory Strategy for Feedback Linearized Differential-Drive".  
+Code developed for "A. Marino, - Active Rear Wheel Steering and Direct Yaw Moment Control".  
 Master's student "Calabria University".  
 For any questions or suggestions write to alexismarino0109@gmail.com  
 
