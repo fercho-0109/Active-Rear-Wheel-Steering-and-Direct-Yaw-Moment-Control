@@ -48,6 +48,6 @@ The repository contains three files
 8. To see the robust controls choose Robust_control_H_inf in the "**Model**" and then run the simulink file called "**robust**".    
 
 9. To see the controls with integral effect choose integral_control_H2_Hinf_L1_LQ in the "**Model**" and then run the simulink file called "**integral_1_pole**".
-10. finally to see the LPV controller run the simulink file called "**LPV_control**".
+10. Finally to see the LPV controller run the simulink file called "**LPV_control**".
 
 
