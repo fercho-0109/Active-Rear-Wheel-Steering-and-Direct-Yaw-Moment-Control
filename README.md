@@ -15,13 +15,17 @@ In this project, an integrated control system design for active rear-wheel steer
 - Implement robust optimal controls.
 - Finally, varying the velocity to observe the robustness of the controls and implement a gain scheduling control.  
 
+The front steering angle corresponds to a disturbance signal. Two different tests were considered **"curve test", "Moose test."**  
+
+
   
 # Prerequisites
 - The code was created and tested on the Matlab/Simulink 2023a environment
+- Yalmip solver is necessary, use **install_mpt3** file to install 
 
 # File description
 The repository contains three files
-1. **Electric_Bicycle**: This Matlab file contains the configuration parameters of the program and shows the results of the analysis.
+1. **Matlab 2023**: It contains the main programs and functions to run the program.
 2. **Electric_Bike**: This Simulink file contains the complete simulation of the e-bike system and the implementation of the observer and control.
 3. **Report**: This contains the complete explanation, the mathematical formulations, and the control configuration.
 
