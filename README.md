@@ -6,13 +6,13 @@ For any questions or suggestions write to alexismarino0109@gmail.com
 
 # Sumary.
 
-In this project, an integrated control system design for active rear wheel steering and direct yaw moment control is presented. The proposed control system is a model matching controller (MMC) which makes the vehicle follow the desired dynamic model by using the state feedback of both yaw rate and side slip angle. Although this integrated MMC is designed by linear control theory, it can greatly improve the handling and the stability and show the expected robustness when the vehicle parameter change, such as, the vehicle mass, even in large lateral acceleration ranges. The steps to take are:
-• Obtain the Model Matching Controller and implement in the Simulink environment.
-• Implemented optimal controls like H_inf, H_2, L_1, LQ, and robust LPV controller
-• Comparison of optimal control techniques.
-• Integrate an integral effect to the model and implement the optimal controllers.
-• Used the Polytropic model description to represent the uncertain system when the plant is subject to velocity changes.
-• Finally, varying the velocity to observe the robustness of the system and implement a gain scheduling control.
+In this project, an integrated control system design for active rear-wheel steering and direct yaw moment control is presented. The proposed control system is a model matching controller (MMC) which makes the vehicle follow the desired dynamic model by using the state feedback of both yaw rate and side slip angle. Although this integrated MMC is designed by linear control theory, it can greatly improve the handling and the stability and show the expected robustness when the vehicle parameter change, such as, the vehicle mass, even in large lateral acceleration ranges. The steps to take are:  
+• Obtain the Model Matching Controller and implement in the Simulink environment.  
+• Implemented optimal controls like H_inf, H_2, L_1, LQ, and robust LPV controller.  
+• Comparison of optimal control techniques.  
+• Integrate an integral effect to the model and implement the optimal controllers.  
+• Used the Polytropic model description to represent the uncertain system when the plant is subject to velocity changes.  
+• Finally, varying the velocity to observe the robustness of the system and implement a gain scheduling control.  
 
   
 # Prerequisites
